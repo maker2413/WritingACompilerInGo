@@ -1,1 +1,4 @@
 #+TITLE: Monkey
+
+This is my repo containing the code that follows along with the book:
+[[https://interpreterbook.com/][How to Build an Interpreter in Go]].
