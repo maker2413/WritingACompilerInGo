@@ -2,3 +2,8 @@
 
 This is my repo containing the code that follows along with the book:
 [[https://interpreterbook.com/][How to Build an Interpreter in Go]].
+
+* Terms
+  - AST :: Abstract Syntax Tree
+  - JIT :: Just In Time
+  - IR :: Intermediate Representation
