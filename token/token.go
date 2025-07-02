@@ -5,8 +5,9 @@ const (
 	EOF     = "EOF"
 
 	// Identifiers + literals
-	IDENT = "IDENT" // add, foobar, x, y, ...
-	INT   = "INT"   // 3456732496
+	IDENT  = "IDENT"  // add, foobar, x, y, ...
+	INT    = "INT"    // 3456732496
+	STRING = "STRING" // hello world
 
 	// Operators
 	ASSIGN   = "="
